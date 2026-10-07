@@ -22,6 +22,7 @@ C# / Go / TypeScript を中心に、API・バッチ・DB開発を経験してい
 - TypeScript
 - JavaScript
 - Java
+- COBOL
 - SQL
 - Google Apps Script
 
