@@ -17,10 +17,10 @@ C# / Go / TypeScript を中心に、API・バッチ・DB開発を経験してい
 ### Languages
 
 - C#
+- VB.NET
 - Go
 - TypeScript
 - JavaScript
-- VB.NET
 - Java
 - SQL
 - Google Apps Script
