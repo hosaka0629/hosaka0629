@@ -16,9 +16,9 @@ C# / Go / TypeScript を中心に、API・バッチ・DB開発を経験してい
 
 ### Languages
 
+- C#
 - Go
 - TypeScript
-- C#
 - JavaScript
 - VB.NET
 - Java
@@ -29,8 +29,7 @@ C# / Go / TypeScript を中心に、API・バッチ・DB開発を経験してい
 
 - Go / Echo
 - TypeScript / NestJS
-- C# / ASP.NET
-- Entity Framework
+- C# / ASP.NET, Entity Framework
 
 ### Infrastructure / Database
 
