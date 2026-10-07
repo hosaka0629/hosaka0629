@@ -50,7 +50,7 @@ C# / Go / TypeScript を中心に、API・バッチ・DB開発を経験してい
 - Swagger / OpenAPI
 - Postman
 - JMeter
-- VS Code
+- Visual Studio / VSCode
 - Backlog / Jira
 
 ---
