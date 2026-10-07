@@ -27,9 +27,9 @@ C# / Go / TypeScript を中心に、API・バッチ・DB開発を経験してい
 
 ### Backend / Framework
 
+- C# / ASP.NET, Entity Framework
 - Go / Echo
 - TypeScript / NestJS
-- C# / ASP.NET, Entity Framework
 
 ### Infrastructure / Database
 
