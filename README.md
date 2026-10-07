@@ -36,7 +36,6 @@ Go / TypeScript / C# を中心に、API・バッチ・DB開発を経験してい
 
 - AWS（ECS / RDS / Aurora / S3）
 - GCP（BigQuery）
-- Docker
 - MySQL
 - PostgreSQL
 - SQL Server
@@ -97,7 +96,7 @@ PHPで構築された既存APIをTypeScript / Goへ段階的にリプレース�
 
 **期間：2025年～2026年**
 
-全社共通の顧客マスタ構築プロジェクトに参画。
+顧客マスタ構築プロジェクトに参画。
 
 - 顧客マスタのデータ設計
 - 外部データを利用した初期データ構築
