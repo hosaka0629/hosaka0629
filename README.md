@@ -36,9 +36,9 @@ C# / Go / TypeScript を中心に、API・バッチ・DB開発を経験してい
 - AWS（ECS / RDS / Aurora / S3）
 - GCP（BigQuery）
 - MySQL
-- PostgreSQL
 - SQL Server
 - Oracle
+- PostgreSQL
 - Redis
 - Elasticsearch
 
